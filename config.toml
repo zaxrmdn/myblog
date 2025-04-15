@@ -7,3 +7,6 @@ theme = "ananke"
   name = "About"
   url = "/bio/"
   weight = 2
+  
+  [params]
+  bio = "Hello! I'm [Your Name], a passionate tech enthusiast and web developer. I love working on open-source projects and sharing my knowledge through blogging."
