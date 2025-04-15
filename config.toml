@@ -2,3 +2,8 @@ baseURL = "https://zaxrmdn.github.io/myblog/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "ananke"
+[menu]
+  [[menu.main]]
+  name = "About"
+  url = "/bio/"
+  weight = 2
